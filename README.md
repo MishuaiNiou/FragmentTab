@@ -1,6 +1,8 @@
 # FragmentTab
 Android的Tab主界面导航
 
+使用Fragment实现，可以点击导航，不支持左右滑动
+
 
 ##效果图如下：
 
